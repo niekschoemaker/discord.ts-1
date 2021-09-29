@@ -1,6 +1,6 @@
 {
   "name": "discordx",
-  "version": "7.0.0-dev",
+  "version": "6.0.4",
   "description": "Create your discord bot by using TypeScript and decorators!",
   "main": "build/index.js",
   "types": "build/index.d.ts",
@@ -36,7 +36,7 @@
     "decorators"
   ],
   "dependencies": {
-    "discord.js": "^13.2.0-dev.1632830601.3b14883",
+    "discord.js": "^13.1.0",
     "glob": "^7.2.0",
     "lodash": "^4.17.21",
     "reflect-metadata": "^0.1.13",
